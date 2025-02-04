@@ -23,15 +23,13 @@ Add two parameters to the drawMole function, to tell it where to draw the mole:
 - one for the x position
 - the other for the y position
 
-> `var drawMole = function(moleX, moleY){....`
-> <br>
+> `var drawMole = function(moleX, moleY){....` > <br>
 
 After you have modified the `drawMole` function, test it out:
 
 - On the previous step, you called `drawMole()` without any arguments. Now, pass two arguments into that call, so that it draws the mole in the middle of the center hole.
 
-> `drawMole(200, 200)`
-> <br><br>
+> `drawMole(200, 200)` > <br><br>
 
 ### Step #3 - MORE moles! <br>
 
